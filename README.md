@@ -57,7 +57,7 @@ The architecture follows a modular design for feature extraction and classificat
 * **Observations:** According to the confusion matrix, the model is highly accurate for "Trouser" and "Ankle Boot" classes but occasionally confuses "Shirt" with "T-shirt/top" and "Coat".
 
 ---
-## Technical Strengths
+## Technical Takeaways
 
 - Clean modular training + evaluation functions
 - Proper weighted metrics reporting
